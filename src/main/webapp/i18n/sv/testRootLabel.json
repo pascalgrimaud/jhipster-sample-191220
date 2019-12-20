@@ -1,0 +1,23 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "testRootLabel": {
+      "home": {
+        "title": "Labels",
+        "createLabel": "Skapa en ny Label",
+        "createOrEditLabel": "Skapa eller ändra en Label",
+        "notFound": "No Labels found"
+      },
+      "created": "En ny Label är skapad med id {{ param }}",
+      "updated": "En Label är uppdaterad med id  {{ param }}",
+      "deleted": "En Label är borttagen med id  {{ param }}",
+      "delete": {
+        "question": "Är du säker på att du vill ta bort Label {{ id }}?"
+      },
+      "detail": {
+        "title": "Label"
+      },
+      "labelName": "Label Name",
+      "operation": "Operation"
+    }
+  }
+}

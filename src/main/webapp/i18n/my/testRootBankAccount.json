@@ -1,0 +1,37 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "testRootBankAccount": {
+      "home": {
+        "title": "Bank Accounts",
+        "createLabel": "Bank Account အသစ်ထည့်မည်",
+        "createOrEditLabel": "Bank Account အသစ်ထည့်ခြင်း (သို့) ပြုပြင်ခြင်း",
+        "notFound": "No Bank Accounts found"
+      },
+      "created": "{{ param }} အိုင်ဒီဖြင့် Bank Account အသစ်တစ်ခုအား ထည့်ပြီးပါပြီ။",
+      "updated": "{{ param }} အိုင်ဒီဖြင့် Bank Account တစ်ခုအား ပြုပြင်ပြီးပါပြီ။",
+      "deleted": "{{ param }} အိုင်ဒီဖြင့် Bank Account တစ်ခုအား ဖျက်ပြီးပါပြီ။",
+      "delete": {
+        "question": "Bank Account {{ id }} အား ဖျက်ပါမည်။ သေချာပါသလား?"
+      },
+      "detail": {
+        "title": "Bank Account"
+      },
+      "name": "Name",
+      "guid": "Guid",
+      "bankNumber": "Bank Number",
+      "agencyNumber": "Agency Number",
+      "lastOperationDuration": "Last Operation Duration",
+      "meanOperationDuration": "Mean Operation Duration",
+      "meanQueueDuration": "Mean Queue Duration",
+      "balance": "Balance",
+      "openingDay": "Opening Day",
+      "lastOperationDate": "Last Operation Date",
+      "active": "Active",
+      "accountType": "Account Type",
+      "attachment": "Attachment",
+      "description": "Description",
+      "user": "User",
+      "operation": "Operation"
+    }
+  }
+}

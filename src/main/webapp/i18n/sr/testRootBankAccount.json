@@ -1,0 +1,37 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "testRootBankAccount": {
+      "home": {
+        "title": "Bank Accounts",
+        "createLabel": "Kreiraj novi Bank Account",
+        "createOrEditLabel": "Kreirajte ili izmenite Bank Account",
+        "notFound": "No Bank Accounts found"
+      },
+      "created": "Kreiran je novi Bank Account pod nazivom {{ param }}",
+      "updated": "Bank Account pod nazivom {{ param }} je ažuriran",
+      "deleted": "Bank Account pod nazivom {{ param }} je obrisan",
+      "delete": {
+        "question": "Da li ste sigurni da želite da obrišete Bank Account pod nazivom {{ id }}?"
+      },
+      "detail": {
+        "title": "Bank Account"
+      },
+      "name": "Name",
+      "guid": "Guid",
+      "bankNumber": "Bank Number",
+      "agencyNumber": "Agency Number",
+      "lastOperationDuration": "Last Operation Duration",
+      "meanOperationDuration": "Mean Operation Duration",
+      "meanQueueDuration": "Mean Queue Duration",
+      "balance": "Balance",
+      "openingDay": "Opening Day",
+      "lastOperationDate": "Last Operation Date",
+      "active": "Active",
+      "accountType": "Account Type",
+      "attachment": "Attachment",
+      "description": "Description",
+      "user": "User",
+      "operation": "Operation"
+    }
+  }
+}

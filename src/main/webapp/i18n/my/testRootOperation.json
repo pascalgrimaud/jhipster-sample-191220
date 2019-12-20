@@ -1,0 +1,26 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "testRootOperation": {
+      "home": {
+        "title": "Operations",
+        "createLabel": "Operation အသစ်ထည့်မည်",
+        "createOrEditLabel": "Operation အသစ်ထည့်ခြင်း (သို့) ပြုပြင်ခြင်း",
+        "notFound": "No Operations found"
+      },
+      "created": "{{ param }} အိုင်ဒီဖြင့် Operation အသစ်တစ်ခုအား ထည့်ပြီးပါပြီ။",
+      "updated": "{{ param }} အိုင်ဒီဖြင့် Operation တစ်ခုအား ပြုပြင်ပြီးပါပြီ။",
+      "deleted": "{{ param }} အိုင်ဒီဖြင့် Operation တစ်ခုအား ဖျက်ပြီးပါပြီ။",
+      "delete": {
+        "question": "Operation {{ id }} အား ဖျက်ပါမည်။ သေချာပါသလား?"
+      },
+      "detail": {
+        "title": "Operation"
+      },
+      "date": "Date",
+      "description": "Description",
+      "amount": "Amount",
+      "bankAccount": "Bank Account",
+      "label": "Label"
+    }
+  }
+}

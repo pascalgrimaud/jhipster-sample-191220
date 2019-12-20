@@ -1,0 +1,23 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "testRootLabel": {
+      "home": {
+        "title": "Labels",
+        "createLabel": "Kreiraj novi Label",
+        "createOrEditLabel": "Kreirajte ili izmenite Label",
+        "notFound": "No Labels found"
+      },
+      "created": "Kreiran je novi Label pod nazivom {{ param }}",
+      "updated": "Label pod nazivom {{ param }} je ažuriran",
+      "deleted": "Label pod nazivom {{ param }} je obrisan",
+      "delete": {
+        "question": "Da li ste sigurni da želite da obrišete Label pod nazivom {{ id }}?"
+      },
+      "detail": {
+        "title": "Label"
+      },
+      "labelName": "Label Name",
+      "operation": "Operation"
+    }
+  }
+}

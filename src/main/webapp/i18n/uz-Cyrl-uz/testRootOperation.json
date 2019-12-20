@@ -1,0 +1,26 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "testRootOperation": {
+      "home": {
+        "title": "Operations",
+        "createLabel": "Янги Operation қўшиш",
+        "createOrEditLabel": "Operationни таҳрирлаш",
+        "notFound": "No Operations found"
+      },
+      "created": "Operation {{ param }} билан қўшилди.",
+      "updated": "{{ param }}- Operation сақланди.",
+      "deleted": "{{ param }}- Operation ўчирилди.",
+      "delete": {
+        "question": "{{ id }}- Operationни ўчирмоқчимисиз? "
+      },
+      "detail": {
+        "title": "Operation"
+      },
+      "date": "Date",
+      "description": "Description",
+      "amount": "Amount",
+      "bankAccount": "Bank Account",
+      "label": "Label"
+    }
+  }
+}

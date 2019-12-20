@@ -1,0 +1,26 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "testRootOperation": {
+      "home": {
+        "title": "Operations",
+        "createLabel": "Lisa uus Operation",
+        "createOrEditLabel": "Lisa või muuda Operation",
+        "notFound": "No Operations found"
+      },
+      "created": "Uus Operation on loodud identifikaatoriga {{ param }}",
+      "updated": "Operation identifikaatoriga {{ param }} on muudetud",
+      "deleted": "Operation identifikaatoriga {{ param }} on kustutatud",
+      "delete": {
+        "question": "Kas olete kindel, et soovite kustutada Operation {{ id }}?"
+      },
+      "detail": {
+        "title": "Operation"
+      },
+      "date": "Date",
+      "description": "Description",
+      "amount": "Amount",
+      "bankAccount": "Bank Account",
+      "label": "Label"
+    }
+  }
+}

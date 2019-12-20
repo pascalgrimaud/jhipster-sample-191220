@@ -1,0 +1,23 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "testRootLabel": {
+      "home": {
+        "title": "Labels",
+        "createLabel": "Thêm mới một Label",
+        "createOrEditLabel": "Thêm mới hoặc cập nhật Label",
+        "notFound": "No Labels found"
+      },
+      "created": "Một Label mới được tạo với định danh {{ param }}",
+      "updated": "Một Label cập nhật với định danh {{ param }}",
+      "deleted": "Một Label đã xóa với định danh {{ param }}",
+      "delete": {
+        "question": "Bạn có chắc là muốn xóa Label {{ id }}?"
+      },
+      "detail": {
+        "title": "Label"
+      },
+      "labelName": "Label Name",
+      "operation": "Operation"
+    }
+  }
+}

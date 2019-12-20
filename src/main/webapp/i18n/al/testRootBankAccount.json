@@ -1,0 +1,37 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "testRootBankAccount": {
+      "home": {
+        "title": "Bank Accounts",
+        "createLabel": "Krijo një të ri Bank Account",
+        "createOrEditLabel": "Krijo ose përpuno një Bank Account",
+        "notFound": "No Bank Accounts found"
+      },
+      "created": "Një Bank Account i ri u krijua me identifikues {{ param }}",
+      "updated": "Një Bank Account u përpunua me identifikues {{ param }}",
+      "deleted": "Një Bank Account u fshi me identifikues {{ param }}",
+      "delete": {
+        "question": "Jeni i sigurtë që doni të fshini Bank Account {{ id }}?"
+      },
+      "detail": {
+        "title": "Bank Account"
+      },
+      "name": "Name",
+      "guid": "Guid",
+      "bankNumber": "Bank Number",
+      "agencyNumber": "Agency Number",
+      "lastOperationDuration": "Last Operation Duration",
+      "meanOperationDuration": "Mean Operation Duration",
+      "meanQueueDuration": "Mean Queue Duration",
+      "balance": "Balance",
+      "openingDay": "Opening Day",
+      "lastOperationDate": "Last Operation Date",
+      "active": "Active",
+      "accountType": "Account Type",
+      "attachment": "Attachment",
+      "description": "Description",
+      "user": "User",
+      "operation": "Operation"
+    }
+  }
+}

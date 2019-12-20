@@ -1,0 +1,37 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "testRootBankAccount": {
+      "home": {
+        "title": "Bank Accounts",
+        "createLabel": "Buat Bank Account baru",
+        "createOrEditLabel": "Buat atau edit Bank Account",
+        "notFound": "No Bank Accounts found"
+      },
+      "created": "Bank Account dengan id {{ param }} telah dibuat",
+      "updated": "Bank Account dengan id {{ param }} telah diperbaharui",
+      "deleted": "Bank Account dengan id {{ param }} telah dihapus",
+      "delete": {
+        "question": "Apakah anda yakin ingin menghapus Bank Account {{ id }}?"
+      },
+      "detail": {
+        "title": "Bank Account"
+      },
+      "name": "Name",
+      "guid": "Guid",
+      "bankNumber": "Bank Number",
+      "agencyNumber": "Agency Number",
+      "lastOperationDuration": "Last Operation Duration",
+      "meanOperationDuration": "Mean Operation Duration",
+      "meanQueueDuration": "Mean Queue Duration",
+      "balance": "Balance",
+      "openingDay": "Opening Day",
+      "lastOperationDate": "Last Operation Date",
+      "active": "Active",
+      "accountType": "Account Type",
+      "attachment": "Attachment",
+      "description": "Description",
+      "user": "User",
+      "operation": "Operation"
+    }
+  }
+}

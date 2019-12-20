@@ -1,0 +1,23 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "testRootLabel": {
+      "home": {
+        "title": "Labels",
+        "createLabel": "Buat Label baru",
+        "createOrEditLabel": "Buat atau edit Label",
+        "notFound": "No Labels found"
+      },
+      "created": "Label dengan id {{ param }} telah dibuat",
+      "updated": "Label dengan id {{ param }} telah diperbaharui",
+      "deleted": "Label dengan id {{ param }} telah dihapus",
+      "delete": {
+        "question": "Apakah anda yakin ingin menghapus Label {{ id }}?"
+      },
+      "detail": {
+        "title": "Label"
+      },
+      "labelName": "Label Name",
+      "operation": "Operation"
+    }
+  }
+}

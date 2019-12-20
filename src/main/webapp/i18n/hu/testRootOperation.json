@@ -1,0 +1,26 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "testRootOperation": {
+      "home": {
+        "title": "Operations",
+        "createLabel": "Egy új Operation létrehozása",
+        "createOrEditLabel": "Hozzon létre, vagy módosítson Operationt",
+        "notFound": "No Operations found"
+      },
+      "created": "Egy új Operation lett létrehozva {{ param }} azonosítóval",
+      "updated": "A Operation módosítva lett {{ param }} azonosítóval",
+      "deleted": "A Operation törölve lett {{ param }} azonosítóval",
+      "delete": {
+        "question": "Biztos benne, hogy törölni szeretné az Operationt {{ id }} azonosítóval?"
+      },
+      "detail": {
+        "title": "Operation"
+      },
+      "date": "Date",
+      "description": "Description",
+      "amount": "Amount",
+      "bankAccount": "Bank Account",
+      "label": "Label"
+    }
+  }
+}

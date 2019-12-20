@@ -1,0 +1,37 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "testRootBankAccount": {
+      "home": {
+        "title": "BankAccounts",
+        "createLabel": "Egy új Bank Account létrehozása",
+        "createOrEditLabel": "Hozzon létre, vagy módosítson Bank Accountt",
+        "notFound": "No Bank Accounts found"
+      },
+      "created": "Egy új Bank Account lett létrehozva {{ param }} azonosítóval",
+      "updated": "A Bank Account módosítva lett {{ param }} azonosítóval",
+      "deleted": "A Bank Account törölve lett {{ param }} azonosítóval",
+      "delete": {
+        "question": "Biztos benne, hogy törölni szeretné az Bank Accountt {{ id }} azonosítóval?"
+      },
+      "detail": {
+        "title": "Bank Account"
+      },
+      "name": "Name",
+      "guid": "Guid",
+      "bankNumber": "Bank Number",
+      "agencyNumber": "Agency Number",
+      "lastOperationDuration": "Last Operation Duration",
+      "meanOperationDuration": "Mean Operation Duration",
+      "meanQueueDuration": "Mean Queue Duration",
+      "balance": "Balance",
+      "openingDay": "Opening Day",
+      "lastOperationDate": "Last Operation Date",
+      "active": "Active",
+      "accountType": "Account Type",
+      "attachment": "Attachment",
+      "description": "Description",
+      "user": "User",
+      "operation": "Operation"
+    }
+  }
+}

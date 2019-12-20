@@ -1,0 +1,26 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "testRootOperation": {
+      "home": {
+        "title": "Operations",
+        "createLabel": "Krijo një të ri Operation",
+        "createOrEditLabel": "Krijo ose përpuno një Operation",
+        "notFound": "No Operations found"
+      },
+      "created": "Një Operation i ri u krijua me identifikues {{ param }}",
+      "updated": "Një Operation u përpunua me identifikues {{ param }}",
+      "deleted": "Një Operation u fshi me identifikues {{ param }}",
+      "delete": {
+        "question": "Jeni i sigurtë që doni të fshini Operation {{ id }}?"
+      },
+      "detail": {
+        "title": "Operation"
+      },
+      "date": "Date",
+      "description": "Description",
+      "amount": "Amount",
+      "bankAccount": "Bank Account",
+      "label": "Label"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "testRootLabel": {
+      "home": {
+        "title": "Labels",
+        "createLabel": "Ստեղծել նոր Label",
+        "createOrEditLabel": "Ստեղծել կամ փոփոխել Label",
+        "notFound": "No Labels found"
+      },
+      "created": "Նոր Label ստեղծված է {{ param }} նունացուցիչով",
+      "updated": "Label թարմացվաց է {{ param }} նունացուցիչով",
+      "deleted": "Label հեռացված է {{ param }}  նունացուցիչով",
+      "delete": {
+        "question": "Դուք վստահ ե՞ք, որ ցանկանում եք հեռացնել Label {{ id }}?"
+      },
+      "detail": {
+        "title": "Label"
+      },
+      "labelName": "Label Name",
+      "operation": "Operation"
+    }
+  }
+}

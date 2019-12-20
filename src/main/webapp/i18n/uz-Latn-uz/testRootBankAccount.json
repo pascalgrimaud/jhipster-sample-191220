@@ -1,0 +1,37 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "testRootBankAccount": {
+      "home": {
+        "title": "Bank Accounts",
+        "createLabel": "Yangi Bank Account qo`shish",
+        "createOrEditLabel": "Bank Accountni tahrirlash",
+        "notFound": "No Bank Accounts found"
+      },
+      "created": "Bank Account {{ param }} bilan qo`shildi",
+      "updated": "{{ param }}- Bank Account saqlandi",
+      "deleted": "{{ param }}- Bank Account o`chirildi",
+      "delete": {
+        "question": "{{ id }}- Bank Accountni o`chirmoqchimisiz? "
+      },
+      "detail": {
+        "title": "Bank Account"
+      },
+      "name": "Name",
+      "guid": "Guid",
+      "bankNumber": "Bank Number",
+      "agencyNumber": "Agency Number",
+      "lastOperationDuration": "Last Operation Duration",
+      "meanOperationDuration": "Mean Operation Duration",
+      "meanQueueDuration": "Mean Queue Duration",
+      "balance": "Balance",
+      "openingDay": "Opening Day",
+      "lastOperationDate": "Last Operation Date",
+      "active": "Active",
+      "accountType": "Account Type",
+      "attachment": "Attachment",
+      "description": "Description",
+      "user": "User",
+      "operation": "Operation"
+    }
+  }
+}

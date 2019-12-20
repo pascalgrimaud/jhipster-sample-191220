@@ -1,0 +1,26 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "testRootOperation": {
+      "home": {
+        "title": "Operations",
+        "createLabel": "नवीन Operation तयार करा",
+        "createOrEditLabel": "Operation तयार किंवा संपादित करा",
+        "notFound": "No Operations found"
+      },
+      "created": "Operation [identifier: {{ param }}] तयार आहे",
+      "updated": "Operation [identifier: {{ param }}] सुधारित केले आहे",
+      "deleted": "Operation [identifier: {{ param }}] हटविले आहे",
+      "delete": {
+        "question": "Operation [id: {{ id }}] काढून टाकण्याबाबत पुष्टी?"
+      },
+      "detail": {
+        "title": "Operation"
+      },
+      "date": "Date",
+      "description": "Description",
+      "amount": "Amount",
+      "bankAccount": "Bank Account",
+      "label": "Label"
+    }
+  }
+}

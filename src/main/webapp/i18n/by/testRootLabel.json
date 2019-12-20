@@ -1,0 +1,23 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "testRootLabel": {
+      "home": {
+        "title": "Labels",
+        "createLabel": "Стварыць новы Label",
+        "createOrEditLabel": "Стварыць або адрэдагаваць Label",
+        "notFound": "No Labels found"
+      },
+      "created": "Новы Label створан з ідэнтыфікатарам {{ param }}",
+      "updated": "Label абноўлен з ідэнтыфікатарам {{ param }}",
+      "deleted": "Label выдален з ідэнтыфікатарам {{ param }}",
+      "delete": {
+        "question": "Вы ўпэўнены, што жадаеце выдаліць Label {{ id }}?"
+      },
+      "detail": {
+        "title": "Label"
+      },
+      "labelName": "Label Name",
+      "operation": "Operation"
+    }
+  }
+}

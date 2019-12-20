@@ -1,0 +1,23 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "testRootLabel": {
+      "home": {
+        "title": "Labels",
+        "createLabel": "కొత్త Label  సృష్టించండి",
+        "createOrEditLabel": "Label సృష్టించండి లేదా సవరించండి",
+        "notFound": "No Labels found"
+      },
+      "created": "{{ param }} ఐడీ తో ఒక కొత్త Label సృష్టించబడినది",
+      "updated": "{{ param }} ఐడీ తో ఒక కొత్త Label సవరించబడినది",
+      "deleted": "{{ param }} ఐడీ తో ఒక కొత్త Label తొలగించబడినది",
+      "delete": {
+        "question": "మీరు Label {{ id }} ఖచ్చితంగా తొలగించాలనుకుంటున్నారా?"
+      },
+      "detail": {
+        "title": "Label"
+      },
+      "labelName": "Label Name",
+      "operation": "Operation"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "testRootOperation": {
+      "home": {
+        "title": "Operations",
+        "createLabel": "Yangi Operation qo`shish",
+        "createOrEditLabel": "Operationni tahrirlash",
+        "notFound": "No Operations found"
+      },
+      "created": "Operation {{ param }} bilan qo`shildi",
+      "updated": "{{ param }}- Operation saqlandi",
+      "deleted": "{{ param }}- Operation o`chirildi",
+      "delete": {
+        "question": "{{ id }}- Operationni o`chirmoqchimisiz? "
+      },
+      "detail": {
+        "title": "Operation"
+      },
+      "date": "Date",
+      "description": "Description",
+      "amount": "Amount",
+      "bankAccount": "Bank Account",
+      "label": "Label"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "testRootOperation": {
+      "home": {
+        "title": "Operations",
+        "createLabel": "Skapa en ny Operation",
+        "createOrEditLabel": "Skapa eller ändra en Operation",
+        "notFound": "No Operations found"
+      },
+      "created": "En ny Operation är skapad med id {{ param }}",
+      "updated": "En Operation är uppdaterad med id  {{ param }}",
+      "deleted": "En Operation är borttagen med id  {{ param }}",
+      "delete": {
+        "question": "Är du säker på att du vill ta bort Operation {{ id }}?"
+      },
+      "detail": {
+        "title": "Operation"
+      },
+      "date": "Date",
+      "description": "Description",
+      "amount": "Amount",
+      "bankAccount": "Bank Account",
+      "label": "Label"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "testRootLabel": {
+      "home": {
+        "title": "Labels",
+        "createLabel": "Krijo një të ri Label",
+        "createOrEditLabel": "Krijo ose përpuno një Label",
+        "notFound": "No Labels found"
+      },
+      "created": "Një Label i ri u krijua me identifikues {{ param }}",
+      "updated": "Një Label u përpunua me identifikues {{ param }}",
+      "deleted": "Një Label u fshi me identifikues {{ param }}",
+      "delete": {
+        "question": "Jeni i sigurtë që doni të fshini Label {{ id }}?"
+      },
+      "detail": {
+        "title": "Label"
+      },
+      "labelName": "Label Name",
+      "operation": "Operation"
+    }
+  }
+}

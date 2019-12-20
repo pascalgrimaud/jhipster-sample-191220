@@ -1,0 +1,26 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "testRootOperation": {
+      "home": {
+        "title": "Operations",
+        "createLabel": "Operation-ஐ உருவாக்கு",
+        "createOrEditLabel": "Operation -ஐ மாற்று (அ) உருவாக்கு",
+        "notFound": "No Operations found"
+      },
+      "created": "Operation புதிதாக உருவாக்கப்பட்டது, அடையாளம் {{ param }}",
+      "updated": "Operation மாற்றப்பட்டது, அடையாளம்  {{ param }}",
+      "deleted": "A Operation நீக்கப்பட்டது, அடையாளம {{ param }}",
+      "delete": {
+        "question": "நீக்குவதற்கு உறுதி செய் Operation {{ id }}?"
+      },
+      "detail": {
+        "title": "Operation"
+      },
+      "date": "Date",
+      "description": "Description",
+      "amount": "Amount",
+      "bankAccount": "Bank Account",
+      "label": "Label"
+    }
+  }
+}

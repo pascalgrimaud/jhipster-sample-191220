@@ -1,0 +1,23 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "testRootLabel": {
+      "home": {
+        "title": "Labels",
+        "createLabel": "Янги Label қўшиш",
+        "createOrEditLabel": "Labelни таҳрирлаш",
+        "notFound": "No Labels found"
+      },
+      "created": "Label {{ param }} билан қўшилди.",
+      "updated": "{{ param }}- Label сақланди.",
+      "deleted": "{{ param }}- Label ўчирилди.",
+      "delete": {
+        "question": "{{ id }}- Labelни ўчирмоқчимисиз? "
+      },
+      "detail": {
+        "title": "Label"
+      },
+      "labelName": "Label Name",
+      "operation": "Operation"
+    }
+  }
+}

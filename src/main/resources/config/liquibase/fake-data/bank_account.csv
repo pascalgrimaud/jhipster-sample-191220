@@ -1,0 +1,11 @@
+id;name;guid;bank_number;agency_number;last_operation_duration;mean_operation_duration;mean_queue_duration;balance;opening_day;last_operation_date;active;account_type;attachment;attachment_content_type;description
+1;monitor;720d0166-43bc-4820-8163-0498729d9200;44315;98235;59937;61205;21844;4492;2015-08-05;2015-08-05T03:51:17;false;CHECKING;../fake-data/blob/hipster.png;image/png;../fake-data/blob/hipster.txt
+2;cross-platform;34bb59b6-b7c7-42a8-958f-45e98ba41d03;3173;20551;34696;76293;40226;11130;2015-08-05;2015-08-04T17:02:10;false;LOAN;../fake-data/blob/hipster.png;image/png;../fake-data/blob/hipster.txt
+3;Washington;626b9274-1329-4966-8bbf-0274fab9b07a;41117;47513;94647;96785;10771;64070;2015-08-05;2015-08-04T14:11:06;false;SAVINGS;../fake-data/blob/hipster.png;image/png;../fake-data/blob/hipster.txt
+4;Tasty;3c57c69a-10c1-4c0f-b630-f56835b19388;27001;81016;81758;8291;36066;44713;2015-08-04;2015-08-05T07:35:50;true;SAVINGS;../fake-data/blob/hipster.png;image/png;../fake-data/blob/hipster.txt
+5;Credit Card Account program;d07b8474-6cae-4426-9228-e2129a59b7f7;48465;46619;35364;83748;97558;82605;2015-08-05;2015-08-05T04:25:23;true;LOAN;../fake-data/blob/hipster.png;image/png;../fake-data/blob/hipster.txt
+6;deposit green;c9cf3659-1eb4-463a-9442-8c5e6ce1f7f8;36512;64894;7660;91325;32575;74770;2015-08-04;2015-08-04T13:35:55;false;CHECKING;../fake-data/blob/hipster.png;image/png;../fake-data/blob/hipster.txt
+7;aggregate International mint green;f729737f-8284-4a0d-87ec-7d28f62abbd3;1385;39753;96315;35853;57942;48901;2015-08-05;2015-08-05T12:18:09;true;CHECKING;../fake-data/blob/hipster.png;image/png;../fake-data/blob/hipster.txt
+8;indigo;97f106d7-9939-4b22-915a-76494753d5c6;1984;91350;45450;53650;82792;83562;2015-08-04;2015-08-05T04:05:01;false;CHECKING;../fake-data/blob/hipster.png;image/png;../fake-data/blob/hipster.txt
+9;Sports Iranian Rial;0f06698e-4c69-40e2-afcf-1ad321ecd584;21981;84122;37392;80943;11449;51617;2015-08-05;2015-08-05T06:57:14;false;CHECKING;../fake-data/blob/hipster.png;image/png;../fake-data/blob/hipster.txt
+10;collaborative Chilean Peso Unidades de fomento;08e94360-14b1-4476-8713-a1f3901f51eb;44119;19596;84447;49017;64520;4835;2015-08-04;2015-08-05T03:36:53;false;SAVINGS;../fake-data/blob/hipster.png;image/png;../fake-data/blob/hipster.txt

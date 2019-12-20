@@ -1,0 +1,23 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "testRootLabel": {
+      "home": {
+        "title": "Labels",
+        "createLabel": "Creeare o nouă entitate Label",
+        "createOrEditLabel": "Creeare sau editare Label",
+        "notFound": "No Labels found"
+      },
+      "created": "A fost creată o nouă entitate Label cu identificatorul {{ param }}",
+      "updated": "Label cu identificatorul {{ param }} a fost actualizată",
+      "deleted": "Label cu identificatorul {{ param }} a fost ștearsă",
+      "delete": {
+        "question": "Sunteți sigur că doriți să ștergeți Label {{ id }}?"
+      },
+      "detail": {
+        "title": "Label"
+      },
+      "labelName": "Label Name",
+      "operation": "Operation"
+    }
+  }
+}

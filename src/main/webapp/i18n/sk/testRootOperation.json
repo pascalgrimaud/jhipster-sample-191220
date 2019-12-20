@@ -1,0 +1,26 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "testRootOperation": {
+      "home": {
+        "title": "Operations",
+        "createLabel": "Pridať Operation",
+        "createOrEditLabel": "Pridať alebo upraviť Operation",
+        "notFound": "No Operations found"
+      },
+      "created": "Bol vytvorený potomok entity Operation s identifikátorom {{ param }}",
+      "updated": "Potomok entity Operation s identifikátorom {{ param }} bol upravený.",
+      "deleted": "Potomok entity Operation s identifikátorom {{ param }} bol vymazaný.",
+      "delete": {
+        "question": "Ste si istý, že chcete vymazať Operation {{ id }}?"
+      },
+      "detail": {
+        "title": "Operation"
+      },
+      "date": "Date",
+      "description": "Description",
+      "amount": "Amount",
+      "bankAccount": "Bank Account",
+      "label": "Label"
+    }
+  }
+}

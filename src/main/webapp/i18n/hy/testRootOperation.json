@@ -1,0 +1,26 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "testRootOperation": {
+      "home": {
+        "title": "Operations",
+        "createLabel": "Ստեղծել նոր Operation",
+        "createOrEditLabel": "Ստեղծել կամ փոփոխել Operation",
+        "notFound": "No Operations found"
+      },
+      "created": "Նոր Operation ստեղծված է {{ param }} նունացուցիչով",
+      "updated": "Operation թարմացվաց է {{ param }} նունացուցիչով",
+      "deleted": "Operation հեռացված է {{ param }}  նունացուցիչով",
+      "delete": {
+        "question": "Դուք վստահ ե՞ք, որ ցանկանում եք հեռացնել Operation {{ id }}?"
+      },
+      "detail": {
+        "title": "Operation"
+      },
+      "date": "Date",
+      "description": "Description",
+      "amount": "Amount",
+      "bankAccount": "Bank Account",
+      "label": "Label"
+    }
+  }
+}

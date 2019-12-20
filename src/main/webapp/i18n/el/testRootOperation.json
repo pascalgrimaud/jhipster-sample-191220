@@ -1,0 +1,26 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "testRootOperation": {
+      "home": {
+        "title": "Operations",
+        "createLabel": "Δημιουργήστε ένα νέο Operation",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Operation",
+        "notFound": "No Operations found"
+      },
+      "created": "Ένα νέο Operation έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Operation έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Operation έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Operation {{ id }};"
+      },
+      "detail": {
+        "title": "Operation"
+      },
+      "date": "Date",
+      "description": "Description",
+      "amount": "Amount",
+      "bankAccount": "Bank Account",
+      "label": "Label"
+    }
+  }
+}

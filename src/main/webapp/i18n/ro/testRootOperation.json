@@ -1,0 +1,26 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "testRootOperation": {
+      "home": {
+        "title": "Operations",
+        "createLabel": "Creeare o nouă entitate Operation",
+        "createOrEditLabel": "Creeare sau editare Operation",
+        "notFound": "No Operations found"
+      },
+      "created": "A fost creată o nouă entitate Operation cu identificatorul {{ param }}",
+      "updated": "Operation cu identificatorul {{ param }} a fost actualizată",
+      "deleted": "Operation cu identificatorul {{ param }} a fost ștearsă",
+      "delete": {
+        "question": "Sunteți sigur că doriți să ștergeți Operation {{ id }}?"
+      },
+      "detail": {
+        "title": "Operation"
+      },
+      "date": "Date",
+      "description": "Description",
+      "amount": "Amount",
+      "bankAccount": "Bank Account",
+      "label": "Label"
+    }
+  }
+}

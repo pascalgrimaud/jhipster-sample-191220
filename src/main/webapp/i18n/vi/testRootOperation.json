@@ -1,0 +1,26 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "testRootOperation": {
+      "home": {
+        "title": "Operations",
+        "createLabel": "Thêm mới một Operation",
+        "createOrEditLabel": "Thêm mới hoặc cập nhật Operation",
+        "notFound": "No Operations found"
+      },
+      "created": "Một Operation mới được tạo với định danh {{ param }}",
+      "updated": "Một Operation cập nhật với định danh {{ param }}",
+      "deleted": "Một Operation đã xóa với định danh {{ param }}",
+      "delete": {
+        "question": "Bạn có chắc là muốn xóa Operation {{ id }}?"
+      },
+      "detail": {
+        "title": "Operation"
+      },
+      "date": "Date",
+      "description": "Description",
+      "amount": "Amount",
+      "bankAccount": "Bank Account",
+      "label": "Label"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "testRootLabel": {
+      "home": {
+        "title": "Labels",
+        "createLabel": "Lisa uus Label",
+        "createOrEditLabel": "Lisa või muuda Label",
+        "notFound": "No Labels found"
+      },
+      "created": "Uus Label on loodud identifikaatoriga {{ param }}",
+      "updated": "Label identifikaatoriga {{ param }} on muudetud",
+      "deleted": "Label identifikaatoriga {{ param }} on kustutatud",
+      "delete": {
+        "question": "Kas olete kindel, et soovite kustutada Label {{ id }}?"
+      },
+      "detail": {
+        "title": "Label"
+      },
+      "labelName": "Label Name",
+      "operation": "Operation"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "testRootOperation": {
+      "home": {
+        "title": "Operations",
+        "createLabel": "สร้าง Operation",
+        "createOrEditLabel": "สร้างหรือแก้ไข Operation",
+        "notFound": "No Operations found"
+      },
+      "created": "Operation ถูกสร้างด้วย {{ param }}",
+      "updated": "Operation ถูกแก้ไขด้วย {{ param }}",
+      "deleted": "Operation ถูกลบด้วย {{ param }}",
+      "delete": {
+        "question": "คุณต้องการที่จะลบ Operation {{ id }}?"
+      },
+      "detail": {
+        "title": "Operation"
+      },
+      "date": "Date",
+      "description": "Description",
+      "amount": "Amount",
+      "bankAccount": "Bank Account",
+      "label": "Label"
+    }
+  }
+}

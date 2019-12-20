@@ -1,0 +1,26 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "testRootOperation": {
+      "home": {
+        "title": "Operations",
+        "createLabel": "Operation erstellen",
+        "createOrEditLabel": "Operation erstellen oder bearbeiten",
+        "notFound": "No Operations found"
+      },
+      "created": "Operation erstellt mit ID {{ param }}",
+      "updated": "Operation aktualisiert mit ID {{ param }}",
+      "deleted": "Operation gelöscht mit ID {{ param }}",
+      "delete": {
+        "question": "Soll Operation {{ id }} wirklich dauerhaft gelöscht werden?"
+      },
+      "detail": {
+        "title": "Operation"
+      },
+      "date": "Date",
+      "description": "Description",
+      "amount": "Amount",
+      "bankAccount": "Bank Account",
+      "label": "Label"
+    }
+  }
+}

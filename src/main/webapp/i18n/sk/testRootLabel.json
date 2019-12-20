@@ -1,0 +1,23 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "testRootLabel": {
+      "home": {
+        "title": "Labels",
+        "createLabel": "Pridať Label",
+        "createOrEditLabel": "Pridať alebo upraviť Label",
+        "notFound": "No Labels found"
+      },
+      "created": "Bol vytvorený potomok entity Label s identifikátorom {{ param }}",
+      "updated": "Potomok entity Label s identifikátorom {{ param }} bol upravený.",
+      "deleted": "Potomok entity Label s identifikátorom {{ param }} bol vymazaný.",
+      "delete": {
+        "question": "Ste si istý, že chcete vymazať Label {{ id }}?"
+      },
+      "detail": {
+        "title": "Label"
+      },
+      "labelName": "Label Name",
+      "operation": "Operation"
+    }
+  }
+}

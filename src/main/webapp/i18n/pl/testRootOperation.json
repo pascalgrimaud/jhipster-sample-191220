@@ -1,0 +1,26 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "testRootOperation": {
+      "home": {
+        "title": "Operation",
+        "createLabel": "Dodaj Operation",
+        "createOrEditLabel": "Dodaj lub edytuj: Operation",
+        "notFound": "No Operations found"
+      },
+      "created": "Utworzono nowy obiekt typu Operation z identyfikatorem {{ param }}",
+      "updated": "Uaktualniono obiekt typu Operation z identyfikatorem {{ param }}",
+      "deleted": "Usunięto obiekt typu Operation z identyfikatorem {{ param }}",
+      "delete": {
+        "question": "Czy na pewno chcesz usunąć Operation {{ id }}?"
+      },
+      "detail": {
+        "title": "Operation"
+      },
+      "date": "Date",
+      "description": "Description",
+      "amount": "Amount",
+      "bankAccount": "Bank Account",
+      "label": "Label"
+    }
+  }
+}

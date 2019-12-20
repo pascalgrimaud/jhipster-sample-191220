@@ -1,0 +1,26 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "testRootOperation": {
+      "home": {
+        "title": "Operations",
+        "createLabel": "Buat Operation baru",
+        "createOrEditLabel": "Buat atau edit Operation",
+        "notFound": "No Operations found"
+      },
+      "created": "Operation dengan id {{ param }} telah dibuat",
+      "updated": "Operation dengan id {{ param }} telah diperbaharui",
+      "deleted": "Operation dengan id {{ param }} telah dihapus",
+      "delete": {
+        "question": "Apakah anda yakin ingin menghapus Operation {{ id }}?"
+      },
+      "detail": {
+        "title": "Operation"
+      },
+      "date": "Date",
+      "description": "Description",
+      "amount": "Amount",
+      "bankAccount": "Bank Account",
+      "label": "Label"
+    }
+  }
+}
