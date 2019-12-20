@@ -42,4 +42,3 @@ jobs:
                   fi
             - name: Package application
               run: ./mvnw -ntp package -Pprod -DskipTests
-              run: npm run build
